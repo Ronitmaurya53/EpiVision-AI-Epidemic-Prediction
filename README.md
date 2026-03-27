@@ -68,3 +68,7 @@ streamlit run app.py
 # If error comes, install manually
 pip install streamlit pandas numpy matplotlib scikit-learn
 
+## 🌟 Why This Project Stands Out
+- Combines prediction with actionable insights
+- Easy-to-use dashboard for non-technical users
+- Focused on real-world healthcare impact
