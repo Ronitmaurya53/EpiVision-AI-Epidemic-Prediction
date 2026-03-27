@@ -25,15 +25,17 @@ This combination provides not just predictions, but actionable insights.
 
 
 ### 🌍 Comparison
-![country_comparison](screenshots/Country Comparison.png)
+![country_comparison](screenshots/Country_Comparison.png)
 
 ### 📈 Graph
+## AI prediction & past data
 ![AI&past_data](screenshots/AI&past_data.png)
 
+##Daily cases
 ![daily_cases](screenshots/daily_cases.png)
 
 ### 🗺️ Map
-![Global_Case_Distribution](screenshots/Global Case Distribution.png)
+![Global_Case_Distribution](screenshots/Global_Case_Distribution.png)
 
 ## 🎯 Features
 - 📊 AI-based future case prediction
