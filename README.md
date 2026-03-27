@@ -31,7 +31,7 @@ This combination provides not just predictions, but actionable insights.
 ## AI prediction & past data
 ![AI&past_data](screenshots/AI&past_data.png)
 
-##Daily cases
+## Daily cases
 ![daily_cases](screenshots/daily_cases.png)
 
 ### 🗺️ Map
