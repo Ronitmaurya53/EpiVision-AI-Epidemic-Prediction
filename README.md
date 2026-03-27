@@ -18,6 +18,22 @@ Unlike traditional prediction systems, EpiVision AI integrates:
 This combination provides not just predictions, but actionable insights.
 
 ---
+## 📸 Screenshots
+
+### 🖥️ Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+
+### 🌍 Comparison
+![country_comparison](screenshots/Country Comparison.png)
+
+### 📈 Graph
+![AI&past_data](screenshots/AI&past_data.png)
+
+![daily_cases](screenshots/daily_cases.png)
+
+### 🗺️ Map
+![Global_Case_Distribution](screenshots/Global Case Distribution.png)
 
 ## 🎯 Features
 - 📊 AI-based future case prediction
@@ -42,26 +58,11 @@ This combination provides not just predictions, but actionable insights.
 ## ⚙️ Installation & Setup
 
 ```bash
-git clone <your-repo-link>
-cd EpiVision-AI
+git clone https://github.com/Ronitmaurya53/EpiVision-AI-Epidemic-Prediction
+cd EpiVision-AI-Epidemic-Prediction
 pip install -r requirements.txt
 streamlit run app.py
+---
+# If error comes, install manually
+pip install streamlit pandas numpy matplotlib scikit-learn
 
-
-
-## 📸 Screenshots
-
-### 🖥️ Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-
-### 🌍 Comparison
-![country_comparison](screenshot/Country Comparison.png)
-
-### 📈 Graph
-![AI&past_data](screenshot/AI&past_data.png)
-
-![daily_cases](screenshot/daily_cases.png)
-
-### 🗺️ Map
-![Global Case Distribution](screenshot/Global Case Distribution.png)
