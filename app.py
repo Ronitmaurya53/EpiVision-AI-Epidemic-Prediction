@@ -1,7 +1,7 @@
 # import streamlit as st
 # import pandas as pd
 # import matplotlib.pyplot as plt
-#ffrom project.main import load_data, get_country_data, predict_cases
+#from project.main import load_data, get_country_data, predict_cases
 
 # st.set_page_config(page_title="EpiVision AI", layout="wide")
 
